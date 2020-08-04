@@ -27,9 +27,9 @@
             "voices": [  
                 "voices/iku.mp3",
                 "voices/class.mp3",
-                "voice/okawai.mp3",
-                "voice/okawai2.mp3",
-                "voice/hanabi.mp3"
+                "voices/okawai.mp3",
+                "voices/okawai2.mp3",
+                "voices/hanabi.mp3"
             ]
         },
         {
@@ -120,8 +120,8 @@
             ],
             "voices": [
                 "voices/chosho.mp3",
-                "voice/okawai.mp3",
-                "voice/okawai2.mp3"
+                "voices/okawai.mp3",
+                "voices/okawai2.mp3"
             ] 
         },
         {
