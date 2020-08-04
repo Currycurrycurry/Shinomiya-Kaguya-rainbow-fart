@@ -179,7 +179,7 @@
         },
         {
             "keywords": [    
-                "voices/$time_sleep"
+                "$time_sleep"
             ],
             "voices": [    
                 "voices/time_sleep.mp3"
