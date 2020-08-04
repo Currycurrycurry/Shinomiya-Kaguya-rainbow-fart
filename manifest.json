@@ -1,9 +1,9 @@
 {
-    "name": "Shinomiya Kaguya",   
+    "name": "Shinomiya-Kaguya",   
     "display-name": "Shinomiya Kaguya 四宫辉夜 (Japanese)",
     "avatar": "avatars/Kaguya2.jpeg",
-    "avatar-dark": "avatars/Kaguya.png",
-    "version": "1.0",
+    "avatar-dark": "avatars/Kaguya.jpg",
+    "version": "1.0.0",
     "description": "真是可爱呢（笑）——四宫辉夜的Python语音扩展包",
     "languages": [
         "python"
