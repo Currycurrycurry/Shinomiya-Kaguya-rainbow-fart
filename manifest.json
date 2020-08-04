@@ -1,0 +1,198 @@
+{
+    "name": "Shinomiya Kaguya",   
+    "display-name": "Shinomiya Kaguya 四宫辉夜 (Japanese)",
+    "avatar": "avatars/Kaguya2.jpeg",
+    "avatar-dark": "avatars/Kaguya.png",
+    "version": "1.0",
+    "description": "真是可爱呢（笑）——四宫辉夜的Python语音扩展包",
+    "languages": [
+        "python"
+    ],
+    "author": "Currycurrycurry",
+    "gender": "female",
+    "locale": "jp",
+    "contributes": [
+        {
+            "keywords": [
+                "import "
+            ],
+            "voices": [  
+                "voices/iku.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "def "
+            ],
+            "voices": [  
+                "voices/iku.mp3",
+                "voices/class.mp3",
+                "voice/okawai.mp3",
+                "voice/okawai2.mp3",
+                "voice/hanabi.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "class",
+                "self"
+            ],
+            "voices": [  
+                "voices/class.mp3",
+                "voices/self.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "if "
+            ],
+            "voices": [  
+                "voices/iku.mp3",
+                "voices/tanoshi.mp3"
+
+            ]
+        },
+        {
+            "keywords": [
+                "del ",
+                "del(",
+                "else ",
+                "else:",
+                "elif",
+                "try:",
+                "except ",
+                "except:",
+                "finally:"
+            ],
+            "voices": [
+                "voices/sodesu.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "for ",
+                "while "
+            ],
+            "voices": [  
+                "voices/sodesu.mp3",
+                "voices/iku.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "break\r\n",
+                "break\n"
+            ],
+            "voices": [
+                "voices/yamede.mp3",
+                "voices/return.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "return ",
+                "return("
+            ],
+            "voices": [
+                "voices/sodesu.mp3",
+                "voices/return.mp3"
+            ]
+        },
+
+        {
+            "keywords": [
+                "continue\n",
+                "continue\r\n",
+                "pass\n",
+                "pass\r\n"
+            ],
+            "voices": [
+                "voices/tsukare.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "False",
+                "None",
+                "mian",
+                "Flase",
+                "Ture"
+            ],
+            "voices": [
+                "voices/chosho.mp3",
+                "voice/okawai.mp3",
+                "voice/okawai2.mp3"
+            ] 
+        },
+        {
+            "keywords": [
+                "True"
+            ],
+            "voices": [
+                "voices/warau.mp3"
+            ] 
+        },
+        {
+            "keywords": [
+                "yield"
+            ],
+            "voices": [
+                "voices/yield.mp3"
+            ] 
+        },
+
+        {    
+            "keywords": [
+                "$time_morning"
+            ],
+            "voices": [    
+                "voices/time_learning.mp3",
+                "voices/time_learning2.mp3"
+            ]
+        },
+        {    
+            "keywords": [    
+                "$time_before_noon"
+            ],
+            "voices": [    
+                "voices/time_learning.mp3",
+                "voices/time_learning2.mp3"
+            ]
+        },
+        {    
+            "keywords": [    
+                "$time_noon"
+            ],
+            "voices": [    
+                "voices/time_noon.mp3",
+                "voices/time_noon2.mp3",
+                "voices/time_noon3.mp3"
+            ]
+        },
+        {    
+            "keywords": [   
+                "$time_evening"
+            ],
+            "voices": [    
+                "voices/time_night.mp3"
+            ]
+        },
+        {
+            "keywords": [    
+                "voices/$time_sleep"
+            ],
+            "voices": [    
+                "voices/time_sleep.mp3"
+            ]
+        },
+        {
+            "keywords": [     
+                "$time_each_hour"
+            ],    
+            "voices": [ 
+                "voices/time_learning.mp3",
+                "voices/time_learning2.mp3"
+            ]
+        }
+    ]
+}
