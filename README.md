@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/SaekiRaku/vscode-rainbow-fart" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/vscode--rainbow--fart-%E2%89%A5_v1.2.3-brightgreen.svg" alt="vscode-rainbow-fart" /></a>
-  <a href="https://github.com/zthxxx/kugimiya-rainbow-fart/releases" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/v/release/zthxxx/kugimiya-rainbow-fart.svg" alt="Release Version" /></a>
+  <a href="https://github.com/Currycurrycurry/Shinomiya-Kaguya-rainbow-fart/releases/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/v/release/Currycurrycurry/Shinomiya-Kaguya-rainbow-fart.svg" alt="Release Version" /></a>
 </p>
 
 <p align="center">
