@@ -17,9 +17,9 @@
 
 ## Preview
 
-![kaguya](./preview/Kaguya.jpg)
+![kaguya](./preview/kaguya.jpg)
 
-![kaguya](./preview/Kaguya2.jpg)
+![kaguya](./preview/kaguya2.jpg)
 
 语音文件: [voices/](./voices/)
 
@@ -43,5 +43,5 @@
 
 ## Thanks
 
-感谢帮忙翻译的的阿语同学和@zqzten（拯救了本日语N∞苦手
+感谢帮忙翻译的阿语同学和@zqzten（拯救了本日语N∞苦手
 
